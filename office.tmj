@@ -471,23 +471,6 @@
                  "width":32,
                  "x":64,
                  "y":544
-                }, 
-                {
-                 "height":32,
-                 "id":24,
-                 "name":"whiteboard",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/sketchboard.me\/JEBfaCidBfcR#\/"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":96,
-                 "x":800,
-                 "y":128
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -570,7 +553,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":25,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
