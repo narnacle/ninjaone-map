@@ -716,8 +716,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":6,
          "firstgid":2956,
-         "source":"tilesets\/NO_Logo_Long.tsx"
+         "image":"tilesets\/NO_Logo_Long.png",
+         "imageheight":32,
+         "imagewidth":192,
+         "margin":0,
+         "name":"NO_Logo_Long",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
