@@ -326,15 +326,15 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":61.6672851518306,
+                 "height":64,
                  "id":12,
                  "name":"clockPopup",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":93.7162209047986,
-                 "x":483.919325398621,
-                 "y":14.0269116471316
+                 "width":96,
+                 "x":480,
+                 "y":32
                 }, 
                 {
                  "height":128,
@@ -428,14 +428,14 @@
                  "y":224
                 }, 
                 {
-                 "height":39.6969696969697,
+                 "height":32,
                  "id":17,
                  "name":"clock",
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":50.2727272727272,
-                 "x":438.484848484849,
+                 "width":32,
+                 "x":448,
                  "y":96.3333333333333
                 }, 
                 {
@@ -471,6 +471,23 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":32,
+                 "id":24,
+                 "name":"whiteboard",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/sketchboard.me\/JEBfaCidBfcR#\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":96,
+                 "x":800,
+                 "y":128
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -553,7 +570,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":24,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
