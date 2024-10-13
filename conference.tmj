@@ -177,7 +177,7 @@
          "layers":[
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 1827, 0, 0, 0, 0, 0, 0, 0, 1828, 1829, 1830, 1831, 1832, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 2956, 0, 0, 0, 0, 0, 0, 0, 0, 2957, 2958, 2959, 2960, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -496,7 +496,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -636,6 +636,19 @@
          "name":"WA_User_Interface",
          "spacing":0,
          "tilecount":273,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":6,
+         "firstgid":2956,
+         "image":"tilesets\/NO_Logo_Long.png",
+         "imageheight":32,
+         "imagewidth":192,
+         "margin":0,
+         "name":"NO_Logo_Long",
+         "spacing":0,
+         "tilecount":6,
          "tileheight":32,
          "tilewidth":32
         }],
