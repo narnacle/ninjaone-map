@@ -746,7 +746,7 @@
                         {
                          "name":"bellSound",
                          "type":"string",
-                         "value":".\/public\/sounds\/knock-knock.mp3"
+                         "value":"https:\/\/us-tuna-sounds-files.voicemod.net\/684c1775-0ebf-4e20-9228-3b3052a8a983-1690576143509.mp3"
                         }, 
                         {
                          "name":"soundRadius",
