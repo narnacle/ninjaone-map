@@ -128,7 +128,7 @@
                 {
                  "name":"bellButtonText",
                  "type":"string",
-                 "value":"\ud83d\udd14"
+                 "value":"\u270a\ud83c\udffb"
                 }, 
                 {
                  "name":"bellPopup",
@@ -746,7 +746,7 @@
                         {
                          "name":"bellSound",
                          "type":"string",
-                         "value":"public\/sounds\/knock-knock.mp3"
+                         "value":".\/public\/sounds\/knock-knock.mp3"
                         }, 
                         {
                          "name":"soundRadius",
